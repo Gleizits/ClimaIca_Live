@@ -1,6 +1,6 @@
 """
 Crea la tabla lecturas_clima en PostgreSQL si no existe.
-Se corre una sola vez (o cada vez que main.py arranca, la verdad nose).
+Se corre una sola vez (o cada vez que main.py arranca, la verdad nose, no crea si ya existe, comprobado).
 """
 
 import os
