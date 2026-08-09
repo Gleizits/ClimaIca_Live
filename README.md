@@ -62,7 +62,7 @@ python main.py
 
 Este proyecto fue desarrollado con apoyo de IA (Claude) como herramienta de diseño y generación de código, bajo mi dirección y revisión constante.
 
-No lo veo como un atajo, sino como un reflejo de hacia dónde creo que va nuestra profesión. Así como un ingeniero civil no coloca cada ladrillo, sino que diseña la estructura, elige los materiales y supervisa que la obra cumpla los estándares, creo que el rol de programadores e ingenieros de software está migrando hacia algo similar: **definir la arquitectura, elegir las herramientas correctas, y validar que el resultado cumpla los requisitos técnicos y de negocio** — más que escribir cada línea de código manualmente.
+No lo veo como un atajo, sino como un reflejo de hacia dónde creo que va nuestra profesión. Así como un ingeniero civil no coloca cada ladrillo, sino que diseña la estructura, elige los materiales y supervisa que la obra cumpla los estándares, creo que el rol de programadores e ingenieros está migrando hacia algo similar: **definir la arquitectura, elegir las herramientas correctas, y validar que el resultado cumpla los requisitos técnicos y de negocio** — más que escribir cada línea de código manualmente.
 
 En este proyecto, yo:
 - Definí el problema de negocio y el alcance
