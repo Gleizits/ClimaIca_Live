@@ -4,8 +4,8 @@ limpios en PostgreSQL (con upsert para evitar duplicados, creo que esa era el no
 debo repasar mis apuntes).
 """
 
-from db import get_connection
-from outliers import es_outlier
+from .db import get_connection
+from .outliers import es_outlier
 
 
 def obtener_historico(conn, distrito: str, campo: str, limite: int = 30) -> list[float]:
